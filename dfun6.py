@@ -27,3 +27,13 @@
 # print(secondRefObject)
 # print(thirdObject)
 
+names = ["Moh","Saif","Tong","Sam"] # list object referenced to variable. 
+newNames =[]
+
+def raaayLanguage(l): #defined function takes l as parameter
+    for item in l:
+       newNames.append( str(item)+"raaay") # use append to modify the newNames and add all previous list + the end of raaay.
+    return newNames
+
+print(raaayLanguage(names)) # pass names list as an argument
+
