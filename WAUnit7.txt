@@ -1,0 +1,13 @@
+OUTPUT:
+
+zzz  Has duplicates
+dog has not duplicate
+bookkeeper  Has duplicates
+subdermatoglyphic has not duplicate
+subdermatoglyphics  Has duplicates
+
+ ------------------------- 
+
+zzz is missing letters :  abcdefghijklmnopqrstuvwxy
+subdermatoglyphic is missing letters :  fjknqvwxz
+the quick brown fox jumps over the lazy dog uses all the letters .
