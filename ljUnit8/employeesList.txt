@@ -1,0 +1,9 @@
+{
+'Saif':[24, 'Web developer', 'Male', 'Yemen'], 
+'Sami':[20, 'Web developer', 'Male', 'Syria'], 
+'Salwa':[24, 'Sales Manager', 'Female', 'Lithuania'], 
+'Ahmed':[25, 'Software Engineer', 'Male', 'Yemen'], 
+'Dyha':[20, 'Technician', 'Male', 'Turkey'], 
+'Daniel':[33, 'Lead Manager', 'Male', 'Netherlands'], 
+'Manal':[24, 'Marketing Manager', 'Female', 'Yemen'] 
+}
